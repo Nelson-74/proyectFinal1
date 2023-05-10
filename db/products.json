@@ -1,0 +1,133 @@
+[
+  {
+    "title": "conjunto buzo con capucha",
+    "description": "conjunto para niños",
+    "code": "7890",
+    "price": 24000,
+    "status": true,
+    "stock": 5,
+    "thumbnail": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f342e66e2e1a4ff39601ae8301227f4b_9366/Conjunto_Buzo_con_Capucha_Camo_Azul_HK0319_01_laydown.jpg",
+    "id": 1
+  },
+  {
+    "title": "chomba de entremamiento Boca",
+    "description": "chomba para hombres",
+    "code": "1974",
+    "price": 22000,
+    "status": true,
+    "stock": 10,
+    "thumbnail": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0c4ee951be8b47139fceaf860105d94c_9366/Chomba_de_Entrenamiento_Boca_Juniors_Azul_HC0996_01_laydown.jpg",
+    "id": 2
+  },
+  {
+    "title": "zapatillas adidas grand court",
+    "description": "zapatillas para niñas",
+    "code": "1435",
+    "price": 23000,
+    "status": true,
+    "stock": 8,
+    "thumbnail": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/53668cf51f1840e9ab3faf8c00d1e1f4_9366/Zapatillas_adidas_Grand_Court_Blanco_HP8910_04_standard.jpg",
+    "id": 3
+  },
+  {
+    "title": "camiseta alternativa selección",
+    "description": "camiseta para mujer",
+    "code": "2223",
+    "price": 21000,
+    "status": true,
+    "stock": 9,
+    "thumbnail": "https://assets.adidas.com/images/w_600,f_auto,q_auto/a3e5c68026ca49288f15afa201048d57_9366/Camiseta_Alternativa_Seleccion_Argentina_Femenina_23_Negro_HT4228.jpg",
+    "id": 4
+  },
+  {
+    "title": "campera térmica",
+    "description": "campera para hombre",
+    "code": "9920",
+    "price": 69000,
+    "status": true,
+    "stock": 4,
+    "thumbnail": "https://assets.adidas.com/images/w_600,f_auto,q_auto/385ece0cea53490e8344a7f90123281c_9366/Campera_Termica_con_Capucha_VARILITE_Negro_BQ7782.jpg",
+    "id": 5
+  },
+  {
+    "title": "campera premium slim ",
+    "description": "Campera para mujer",
+    "code": "3456",
+    "price": 58000,
+    "status": true,
+    "stock": 3,
+    "thumbnail": "https://assets.adidas.com/images/w_600,f_auto,q_auto/b3802c9cc8594ecf9bd4ae9400f2a0d4_9366/Campera_Con_Capucha_Premium_Slim_Rosa_HM2611.jpg",
+    "id": 6
+  },
+  {
+    "title": "remera aeroready",
+    "description": "remera de hombre",
+    "code": "4648",
+    "price": 12000,
+    "status": true,
+    "stock": 11,
+    "thumbnail": "https://assets.adidas.com/images/w_600,f_auto,q_auto/888caa3570c3447bb8d0adb20135373a_9366/Remera_AEROREADY_Feelstrong_Camo_Sport_Gris_HD4319.jpg",
+    "id": 7
+  },
+  {
+    "title": "remera fram print ",
+    "description": "remera de mujer",
+    "code": "3840",
+    "price": 13000,
+    "status": true,
+    "stock": 25,
+    "thumbnail": "https://assets.adidas.com/images/w_600,f_auto,q_auto/d24e9bfdbfd44324852aadbf0017187d_9366/Remera_FARM_Print_Estampada_Azul_HE4924.jpg",
+    "id": 8
+  },
+  {
+    "title": " zapatillas trail running terrex",
+    "description": "zapatillas outdoor de hombre",
+    "code": "1123",
+    "price": 45000,
+    "status": true,
+    "stock": 7,
+    "thumbnail": "https://assets.adidas.com/images/w_600,f_auto,q_auto/4857c1fc0699484f8e51af0800ea1bc1_9366/Zapatillas_de_Trail_Running_Terrex_Soulstride_Azul_GZ9035.jpg",
+    "id": 9
+  },
+  {
+    "title": "zapatillas terrex Ax4",
+    "description": "zapatillas de mujer",
+    "code": "3435",
+    "price": 47000,
+    "status": true,
+    "stock": 5,
+    "thumbnail": "https://assets.adidas.com/images/w_600,f_auto,q_auto/484eea27f4564036be7fad660078802d_9366/Zapatillas_de_Senderismo_Terrex_AX4_Primegreen_Gris_GV7506.jpg",
+    "id": 10
+  },
+  {
+    "title": "zapatillas ultraboost 1.0",
+    "description": "zapatillas hombre",
+    "code": "9542",
+    "price": 60000,
+    "status": true,
+    "stock": 9,
+    "thumbnail": "https://assets.adidas.com/images/w_600,f_auto,q_auto/fbeecf98adaa4edb9cc3af2d0155a85a_9366/Zapatillas_Ultraboost_1.0_Naranja_IG7310.jpg",
+    "id": 11
+  },
+  {
+    "title": "Ultraboost 5.0 Dna W",
+    "description": "zapatillas de mujer",
+    "code": "3557",
+    "price": 57000,
+    "status": true,
+    "stock": 15,
+    "thumbnail": "https://assets.adidas.com/images/w_600,f_auto,q_auto/4c0a24c14af8499bb112adfb001b7083_9366/Zapatillas_Ultraboost_5.0_DNA_Blanco_GX3028.jpg",
+    "id": 12
+  },
+  {
+    "title": "Ultraboost 5.0 Dna W",
+    "description": "zapatillas running de mujer",
+    "code": "3554",
+    "price": 57000,
+    "status": true,
+    "stock": 15,
+    "category": "Zapatillas de mujer",
+    "thumbnail": "https://assets.adidas.com/images/w_600,f_auto,q_auto/4c0a24c14af8499bb112adfb001b7083_9366/Zapatillas_Ultraboost_5.0_DNA_Blanco_GX3028.jpg",
+    "id": 13
+  }
+]
